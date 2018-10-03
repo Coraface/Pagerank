@@ -2,7 +2,7 @@
 
 How to run: Download this graph --> https://snap.stanford.edu/data/web-Google.html ,
 then run make at linux terminal and
-then run the code using these arguements:
+then run the code using these arguments:
 *graph filename
 *nodes
 *threshold
