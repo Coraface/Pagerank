@@ -1,4 +1,5 @@
-# Parallel Pagerank Algorithm (pthreads)
+# Parallel Pagerank Algorithm
+# https://en.wikipedia.org/wiki/PageRank
 
 How to run: Download this graph --> https://snap.stanford.edu/data/web-Google.html ,
 then run make at linux terminal and
